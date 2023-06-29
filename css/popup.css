@@ -1,0 +1,27 @@
+/* dialog::backdrop {
+    background-color: rgb(0 0 0 / .3);
+}
+
+.popup {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-radius: .7rem;
+    box-shadow: 0 0 0 .3rem rgb(0 0 0 / .3);
+    width: 70%;
+    height: 40%;
+    justify-content: center;
+
+}
+
+.title__popup {
+    display: flex;
+    font-size: larger;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.img__popup {
+    display: flex;
+    width: 100%;
+} */
